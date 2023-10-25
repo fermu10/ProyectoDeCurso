@@ -1,0 +1,77 @@
+C:\Users\nanit\source\repos\proyectodecurso\bin\Debug\net6.0-windows\proyectodecurso.exe
+C:\Users\nanit\source\repos\proyectodecurso\bin\Debug\net6.0-windows\proyectodecurso.deps.json
+C:\Users\nanit\source\repos\proyectodecurso\bin\Debug\net6.0-windows\proyectodecurso.runtimeconfig.json
+C:\Users\nanit\source\repos\proyectodecurso\bin\Debug\net6.0-windows\proyectodecurso.dll
+C:\Users\nanit\source\repos\proyectodecurso\bin\Debug\net6.0-windows\proyectodecurso.pdb
+C:\Users\nanit\source\repos\proyectodecurso\obj\Debug\net6.0-windows\proyectodecurso.csproj.AssemblyReference.cache
+C:\Users\nanit\source\repos\proyectodecurso\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\nanit\source\repos\proyectodecurso\obj\Debug\net6.0-windows\ventanaCredencial.g.cs
+C:\Users\nanit\source\repos\proyectodecurso\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\nanit\source\repos\proyectodecurso\obj\Debug\net6.0-windows\proyectodecurso_MarkupCompile.cache
+C:\Users\nanit\source\repos\proyectodecurso\obj\Debug\net6.0-windows\proyectodecurso_MarkupCompile.lref
+C:\Users\nanit\source\repos\proyectodecurso\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\nanit\source\repos\proyectodecurso\obj\Debug\net6.0-windows\ventanaCredencial.baml
+C:\Users\nanit\source\repos\proyectodecurso\obj\Debug\net6.0-windows\proyectodecurso.g.resources
+C:\Users\nanit\source\repos\proyectodecurso\obj\Debug\net6.0-windows\proyectodecurso.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nanit\source\repos\proyectodecurso\obj\Debug\net6.0-windows\proyectodecurso.AssemblyInfoInputs.cache
+C:\Users\nanit\source\repos\proyectodecurso\obj\Debug\net6.0-windows\proyectodecurso.AssemblyInfo.cs
+C:\Users\nanit\source\repos\proyectodecurso\obj\Debug\net6.0-windows\proyectodecurso.csproj.CoreCompileInputs.cache
+C:\Users\nanit\source\repos\proyectodecurso\obj\Debug\net6.0-windows\proyectodecurso.dll
+C:\Users\nanit\source\repos\proyectodecurso\obj\Debug\net6.0-windows\refint\proyectodecurso.dll
+C:\Users\nanit\source\repos\proyectodecurso\obj\Debug\net6.0-windows\proyectodecurso.pdb
+C:\Users\nanit\source\repos\proyectodecurso\obj\Debug\net6.0-windows\proyectodecurso.genruntimeconfig.cache
+C:\Users\nanit\source\repos\proyectodecurso\obj\Debug\net6.0-windows\ref\proyectodecurso.dll
+C:\Users\usuariocc\Desktop\proyectodecurso\bin\Debug\net6.0-windows\proyectodecurso.exe
+C:\Users\usuariocc\Desktop\proyectodecurso\bin\Debug\net6.0-windows\proyectodecurso.deps.json
+C:\Users\usuariocc\Desktop\proyectodecurso\bin\Debug\net6.0-windows\proyectodecurso.runtimeconfig.json
+C:\Users\usuariocc\Desktop\proyectodecurso\bin\Debug\net6.0-windows\proyectodecurso.dll
+C:\Users\usuariocc\Desktop\proyectodecurso\bin\Debug\net6.0-windows\proyectodecurso.pdb
+C:\Users\usuariocc\Desktop\proyectodecurso\obj\Debug\net6.0-windows\proyectodecurso.csproj.AssemblyReference.cache
+C:\Users\usuariocc\Desktop\proyectodecurso\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\usuariocc\Desktop\proyectodecurso\obj\Debug\net6.0-windows\Registro.g.cs
+C:\Users\usuariocc\Desktop\proyectodecurso\obj\Debug\net6.0-windows\ventana2.g.cs
+C:\Users\usuariocc\Desktop\proyectodecurso\obj\Debug\net6.0-windows\ventanaCredencial.g.cs
+C:\Users\usuariocc\Desktop\proyectodecurso\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\usuariocc\Desktop\proyectodecurso\obj\Debug\net6.0-windows\proyectodecurso_MarkupCompile.cache
+C:\Users\usuariocc\Desktop\proyectodecurso\obj\Debug\net6.0-windows\proyectodecurso_MarkupCompile.lref
+C:\Users\usuariocc\Desktop\proyectodecurso\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\usuariocc\Desktop\proyectodecurso\obj\Debug\net6.0-windows\Registro.baml
+C:\Users\usuariocc\Desktop\proyectodecurso\obj\Debug\net6.0-windows\ventana2.baml
+C:\Users\usuariocc\Desktop\proyectodecurso\obj\Debug\net6.0-windows\ventanaCredencial.baml
+C:\Users\usuariocc\Desktop\proyectodecurso\obj\Debug\net6.0-windows\proyectodecurso.g.resources
+C:\Users\usuariocc\Desktop\proyectodecurso\obj\Debug\net6.0-windows\proyectodecurso.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usuariocc\Desktop\proyectodecurso\obj\Debug\net6.0-windows\proyectodecurso.AssemblyInfoInputs.cache
+C:\Users\usuariocc\Desktop\proyectodecurso\obj\Debug\net6.0-windows\proyectodecurso.AssemblyInfo.cs
+C:\Users\usuariocc\Desktop\proyectodecurso\obj\Debug\net6.0-windows\proyectodecurso.csproj.CoreCompileInputs.cache
+C:\Users\usuariocc\Desktop\proyectodecurso\obj\Debug\net6.0-windows\proyectodecurso.dll
+C:\Users\usuariocc\Desktop\proyectodecurso\obj\Debug\net6.0-windows\refint\proyectodecurso.dll
+C:\Users\usuariocc\Desktop\proyectodecurso\obj\Debug\net6.0-windows\proyectodecurso.pdb
+C:\Users\usuariocc\Desktop\proyectodecurso\obj\Debug\net6.0-windows\proyectodecurso.genruntimeconfig.cache
+C:\Users\usuariocc\Desktop\proyectodecurso\obj\Debug\net6.0-windows\ref\proyectodecurso.dll
+C:\Users\nanit\Downloads\proyectodecurso 1\proyectodecurso\bin\Debug\net6.0-windows\proyectodecurso.exe
+C:\Users\nanit\Downloads\proyectodecurso 1\proyectodecurso\bin\Debug\net6.0-windows\proyectodecurso.deps.json
+C:\Users\nanit\Downloads\proyectodecurso 1\proyectodecurso\bin\Debug\net6.0-windows\proyectodecurso.runtimeconfig.json
+C:\Users\nanit\Downloads\proyectodecurso 1\proyectodecurso\bin\Debug\net6.0-windows\proyectodecurso.dll
+C:\Users\nanit\Downloads\proyectodecurso 1\proyectodecurso\bin\Debug\net6.0-windows\proyectodecurso.pdb
+C:\Users\nanit\Downloads\proyectodecurso 1\proyectodecurso\obj\Debug\net6.0-windows\proyectodecurso.csproj.AssemblyReference.cache
+C:\Users\nanit\Downloads\proyectodecurso 1\proyectodecurso\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\nanit\Downloads\proyectodecurso 1\proyectodecurso\obj\Debug\net6.0-windows\Registro.g.cs
+C:\Users\nanit\Downloads\proyectodecurso 1\proyectodecurso\obj\Debug\net6.0-windows\ventana2.g.cs
+C:\Users\nanit\Downloads\proyectodecurso 1\proyectodecurso\obj\Debug\net6.0-windows\ventanaCredencial.g.cs
+C:\Users\nanit\Downloads\proyectodecurso 1\proyectodecurso\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\nanit\Downloads\proyectodecurso 1\proyectodecurso\obj\Debug\net6.0-windows\proyectodecurso_MarkupCompile.cache
+C:\Users\nanit\Downloads\proyectodecurso 1\proyectodecurso\obj\Debug\net6.0-windows\proyectodecurso_MarkupCompile.lref
+C:\Users\nanit\Downloads\proyectodecurso 1\proyectodecurso\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\nanit\Downloads\proyectodecurso 1\proyectodecurso\obj\Debug\net6.0-windows\Registro.baml
+C:\Users\nanit\Downloads\proyectodecurso 1\proyectodecurso\obj\Debug\net6.0-windows\ventana2.baml
+C:\Users\nanit\Downloads\proyectodecurso 1\proyectodecurso\obj\Debug\net6.0-windows\ventanaCredencial.baml
+C:\Users\nanit\Downloads\proyectodecurso 1\proyectodecurso\obj\Debug\net6.0-windows\proyectodecurso.g.resources
+C:\Users\nanit\Downloads\proyectodecurso 1\proyectodecurso\obj\Debug\net6.0-windows\proyectodecurso.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nanit\Downloads\proyectodecurso 1\proyectodecurso\obj\Debug\net6.0-windows\proyectodecurso.AssemblyInfoInputs.cache
+C:\Users\nanit\Downloads\proyectodecurso 1\proyectodecurso\obj\Debug\net6.0-windows\proyectodecurso.AssemblyInfo.cs
+C:\Users\nanit\Downloads\proyectodecurso 1\proyectodecurso\obj\Debug\net6.0-windows\proyectodecurso.csproj.CoreCompileInputs.cache
+C:\Users\nanit\Downloads\proyectodecurso 1\proyectodecurso\obj\Debug\net6.0-windows\proyectodecurso.dll
+C:\Users\nanit\Downloads\proyectodecurso 1\proyectodecurso\obj\Debug\net6.0-windows\refint\proyectodecurso.dll
+C:\Users\nanit\Downloads\proyectodecurso 1\proyectodecurso\obj\Debug\net6.0-windows\proyectodecurso.pdb
+C:\Users\nanit\Downloads\proyectodecurso 1\proyectodecurso\obj\Debug\net6.0-windows\proyectodecurso.genruntimeconfig.cache
+C:\Users\nanit\Downloads\proyectodecurso 1\proyectodecurso\obj\Debug\net6.0-windows\ref\proyectodecurso.dll
