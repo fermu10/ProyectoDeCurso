@@ -31,6 +31,11 @@ namespace proyectodecurso
 
            
             window.ShowDialog();
+
+            var window1 = new ventana2();
+
+
+            window1.ShowDialog();
         }
 
         private void Button_Click(object sender, RoutedEventArgs e)

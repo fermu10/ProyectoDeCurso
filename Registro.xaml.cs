@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Collections.ObjectModel;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -19,9 +20,14 @@ namespace proyectodecurso
     /// </summary>
     public partial class Registro : Window
     {
+        private ObservableCollection<Usuario> usuarios;
+
         public Registro()
         {
+            
             InitializeComponent();
+            usuarios = new ObservableCollection<Usuario>();
+            usuariosDG.ItemsSource = usuarios;
         }
 
        
@@ -29,13 +35,28 @@ namespace proyectodecurso
         private void MostrarContraseña_Checked(object sender, RoutedEventArgs e)
         {
             passwordRegistro.PasswordChar = '\0';
-
         }
 
         private void MostrarContraseña_Unchecked(object sender, RoutedEventArgs e)
         {
+
             passwordRegistro.PasswordChar = '*';
+            
+        }
+
+        private void btnRegistrar_Click(object sender, RoutedEventArgs e)
+        {
+            
+                Usuario nuevoUsuario  = new Usuario{ Nombre = textNombreRegistro.Text, Nick=textNickRegistro.Text, Password= passwordRegistro.Password,
+                FechaNacimiento = fechaNacimientoRegistro.DisplayDate.ToString()};
+            usuarios.Add(nuevoUsuario);
 
         }
+
     }
+            
+        
+
+
+    
 }

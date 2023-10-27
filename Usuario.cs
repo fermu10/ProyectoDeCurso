@@ -8,9 +8,9 @@ namespace proyectodecurso
 {
     class Usuario : Persona
     {
-        private int fechaNacimiento;
+        private string fechaNacimiento;
         private string intereses;
-        public int FechaNacimiento
+        public string FechaNacimiento
         {
             get { return fechaNacimiento; }
             set { fechaNacimiento = value; }
