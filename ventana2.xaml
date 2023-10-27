@@ -7,7 +7,7 @@
         mc:Ignorable="d"
         Title="ventana2" Height="450" Width="800">
     <Grid>
-        <DataGrid x:Name="clientesDG" HorizontalAlignment="Center" Width="742" Margin="0,122,0,122" AutoGenerateColumns="False">
+        <DataGrid x:Name="GridRegistro" HorizontalAlignment="Center" Width="742" Margin="0,122,0,122" AutoGenerateColumns="False">
             <DataGrid.Columns>
                 <DataGridTextColumn Header="Nombre" Binding="{Binding Nombre}" Width="200"/>
                 <DataGridTextColumn Header="Nick" Binding="{Binding Nick}" Width="100"/>

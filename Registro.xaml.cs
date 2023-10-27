@@ -28,6 +28,7 @@ namespace proyectodecurso
             InitializeComponent();
             usuarios = new ObservableCollection<Usuario>();
             usuariosDG.ItemsSource = usuarios;
+            
         }
 
        
@@ -50,6 +51,8 @@ namespace proyectodecurso
                 Usuario nuevoUsuario  = new Usuario{ Nombre = textNombreRegistro.Text, Nick=textNickRegistro.Text, Password= passwordRegistro.Password,
                 FechaNacimiento = fechaNacimientoRegistro.DisplayDate.ToString()};
             usuarios.Add(nuevoUsuario);
+            var window1 = new ventana2();
+            window1.ShowDialog();
 
         }
 

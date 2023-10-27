@@ -7,15 +7,23 @@
         mc:Ignorable="d"
         Title="ventanaCredencial" Height="450" Width="800">
     <Grid>
-        <Label x:Name="lblNombreUsuario" Content="Nombre Usuario:" HorizontalAlignment="Left" Margin="302,117,0,0" VerticalAlignment="Top"/>
-        <Label x:Name="lblContra" Content="Contraseña:" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="302,195,0,0"/>
-        <TextBox x:Name="textNombreUsuario" HorizontalAlignment="Left" Margin="302,148,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
-        <Button x:Name="btnIngresar" Content="Ingresar" HorizontalAlignment="Left" Margin="339,295,0,0" VerticalAlignment="Top"/>
+        <Border  BorderThickness="1" Background="#1b1448" BorderBrush="MediumSlateBlue" Margin="0,0,0,-42" />
+        <StackPanel Width="250"
+                    Grid.Row="2"
+                    Orientation="Vertical"
+                    Margin="0,100,0,0">
+            <TextBlock x:Name="UsuarioLogBlock" Text="Usuario" Foreground="DarkGray" FontSize="12" FontWeight="Medium" FontFamily="Montserrat" Margin="0,35,0,0"/>
+            <TextBox x:Name="textNombreLog" FontSize="13" FontFamily="Montserrat" Background="Transparent" Foreground="White" CaretBrush="LightGray" BorderBrush="DarkGray" BorderThickness="0,0,0,1" Height="28" VerticalContentAlignment="Center" Margin="0,5,0,0"/>
+            <TextBlock x:Name="ContraseñaLogBlock" Text="Contraseña" Foreground="DarkGray" FontSize="12" FontWeight="Medium" FontFamily="Montserrat" Margin="0,35,0,0"/>
+            <PasswordBox x:Name="passwordLog" Background="Transparent" Foreground="White"  CaretBrush="LightGray" BorderBrush="DarkGray" PasswordChar="*" MaxLength="8" SnapsToDevicePixels="True" BorderThickness="0,0,0,1"/>
+            <Button x:Name="btnIngresar" FontFamily="Montserrat" Foreground="White" Background="#DA34AE" Cursor="Hand" Grid.Column="2" Margin="0,50,0,0" Content="Ingresar" Height="34" Width="112"/>
+
+        </StackPanel>
+
         <ComboBox x:Name="comboCredencial" HorizontalAlignment="Left" Margin="50,41,0,0" VerticalAlignment="Top" Width="120">
             <ComboBoxItem Content="Usuario"/>
             <ComboBoxItem Content="Administrador"/>
         </ComboBox>
-        <PasswordBox x:Name="contraseñaIniciar" HorizontalAlignment="Left" Margin="302,246,0,0" VerticalAlignment="Top" Width="120" MaxLength="8"/>
 
     </Grid>
 </Window>

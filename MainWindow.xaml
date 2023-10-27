@@ -6,16 +6,15 @@
         xmlns:local="clr-namespace:proyectodecurso"
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
+
     <Grid>
-        <Button Content="Button" HorizontalAlignment="Left" Margin="51,36,0,0" VerticalAlignment="Top" Height="69" Width="135"/>
-        <Button Content="Button" HorizontalAlignment="Left" Margin="51,126,0,0" VerticalAlignment="Top" Height="69" Width="135" Click="Button_Click_1"/>
-        <Button Content="Button" HorizontalAlignment="Left" Margin="51,217,0,0" VerticalAlignment="Top" Height="69" Width="135" Click="Button_Click"/>
-        <Button x:Name="boton1" Content="Button" HorizontalAlignment="Left" Margin="51,308,0,0" VerticalAlignment="Top" Height="69" Width="135" Click="boton1_Click"/>
-        <Button Content="Button" HorizontalAlignment="Left" Margin="592,36,0,0" VerticalAlignment="Top" Height="69" Width="135"/>
-        <Button Content="Button" HorizontalAlignment="Left" Margin="592,126,0,0" VerticalAlignment="Top" Height="69" Width="135"/>
-        <Button Content="Button" HorizontalAlignment="Left" Margin="592,217,0,0" VerticalAlignment="Top" Height="69" Width="135"/>
-        <Button Content="Button" HorizontalAlignment="Left" Margin="592,308,0,0" VerticalAlignment="Top" Height="69" Width="135"/>
-        <Label x:Name="lblTitulo" Content="Bolivia Aviation" HorizontalAlignment="Center" Margin="0,186,0,0" VerticalAlignment="Top" Height="37" Width="176" FontSize="24"/>
+
+
+        <Border  BorderThickness="1" Background="#1b1448" BorderBrush="MediumSlateBlue" />
+
+        <TextBlock x:Name="boliviaAviationBlock" HorizontalAlignment="Center" Text="Bolivia Aviation" Foreground="White" Background="Transparent" FontSize="35" FontWeight="Medium" FontFamily="Montserrat" Margin="0,35,0,2" Width="254"/>
+        <Button x:Name="btnRegistrar" Background="#0000FF"  Content="Registrarse"   FontFamily="Montserrat" Foreground="White" FontSize="12" Cursor="Hand" Margin="307,177,351,200" Click="btnRegistrar_Click"/>
+        <Button x:Name="btnEntrar" Background="#0000FF"  Content="Entrar"   FontFamily="Montserrat" Foreground="White" FontSize="12" Cursor="Hand" Margin="307,272,351,105" Click="btnEntrar_Click"/>
 
     </Grid>
 </Window>

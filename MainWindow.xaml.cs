@@ -32,10 +32,7 @@ namespace proyectodecurso
            
             window.ShowDialog();
 
-            var window1 = new ventana2();
-
-
-            window1.ShowDialog();
+            
         }
 
         private void Button_Click(object sender, RoutedEventArgs e)
@@ -49,9 +46,25 @@ namespace proyectodecurso
         private void Button_Click_1(object sender, RoutedEventArgs e)
         {
             var window = new ventana2();
-
-
             window.ShowDialog();
+        }
+
+        private void btnLogIn_Click(object sender, RoutedEventArgs e)
+        {
+            var window1 = new ventanaCredencial();
+            window1.ShowDialog();
+        }
+
+        private void btnRegistrar_Click(object sender, RoutedEventArgs e)
+        {
+            var window1 = new Registro();
+            window1.ShowDialog();
+        }
+
+        private void btnEntrar_Click(object sender, RoutedEventArgs e)
+        {
+            var window1 = new ventanaCredencial();
+            window1.ShowDialog();
         }
     }
 }
